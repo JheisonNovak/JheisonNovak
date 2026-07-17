@@ -1,101 +1,37 @@
 <div align="center">
 
-### `Backend Developer` • `Systems Analyst` • `Database Architect`
+### `Backend Engineer` • `NestJS` • `TypeScript` • `PostgreSQL`
+
+I build backends for domains with dense business rules - factory production
+systems, ERPs, and multi-tenant SaaS.<br>
+Most of my work is PostgreSQL performance and modeling complex domains.
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%" style="min-width: 345px;">
+### Start here
 
-## 💻 Core Technologies
+**[architecture-decisions](https://github.com/jheisonnovak/architecture-decisions)**
+Decisions I've made in production systems: the context, the options I weighed,
+what I chose, and what it cost. Every record includes its downsides.
 
-**Languages I Love**
+**[clean-nestjs-cli](https://github.com/jheisonnovak/clean-nestjs-cli)**
+CLI that scaffolds NestJS modules in Clean Architecture. 3.6k+ downloads on npm,
+17 releases since 2024. I use it to build my own products.
 
-<pre>
-📘 TypeScript (primary)    ████████████ 95%
-☕ Java (secondary)        █████████░░░ 70%
-🌟 JavaScript (backgroud)  ████████░░░░ 60%
-</pre>
+**[url-shortener](https://github.com/jheisonnovak/url-shortener)**
+Microservices monorepo - master-slave replication, PgBouncer, Redis with dynamic
+TTL, RabbitMQ, Prometheus/Grafana.
 
-**Backend Powerhouse**
-
--   🐱 **NestJS** - Scalable Node.js architectures
--   ⚡ **Express** - Fast, minimalist web framework
--   🍃 **Spring Boot** - Enterprise Java applications
-
-</td>
-<td valign="top" width="50%" style="min-width: 345px;">
-
-## 🗄️ Data & Infrastructure
-
-**Database Expertise**
-
--   🐘 **PostgreSQL** - Relational database mastery
--   🔶 **Oracle** - Enterprise database solutions
--   🐬 **MySQL** - Performance-optimized queries
--   🔴 **Redis** - Caching & session management
-
-**DevOps Arsenal**
-
--   🐳 **Docker** - Containerization expert
--   🌐 **Nginx** - Web server & reverse proxy
--   🐧 **Linux** - System administration
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>🔧 <strong>Additional Skills & Tools</strong></summary>
 <br>
 
-**Testing & Quality**
+### Also
 
--   🧪 **Jest** - JavaScript testing framework
--   🚀 **CI/CD** - Continuous integration & deployment
-
-**Message Brokers**
-
--   🐰 **RabbitMQ** - Reliable message queuing
--   📊 **Apache Kafka** - Stream processing platform
-
-**Monitoring & Observability**
-
--   📈 **Prometheus** - Metrics collection
--   📊 **Grafana** - Data visualization
-
-**Architecture & Design Patterns**
-
--   🏗️ **Clean Architecture** - Maintainable system design
--   🔧 **SOLID Principles** - Object-oriented design excellence
--   🏛️ **Domain-Driven Design (DDD)** - Complex domain modeling
--   🎯 **Design Patterns** - Proven software solutions
-
-**Frontend (when needed)**
-
--   ⚛️ **React**, **NextJS** **Angular**
-
-**Other Languages**
-
--   🔷 **C#**, **C**, **Python**, **Kotlin**
-
-</details>
-
-<div align="center">
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/jheisonnovak" style="text-decoration: none; color: inherit;">
-    <img height="180em" src="https://github-readme-stats-jheison-novak.vercel.app/api?username=jheisonnovak&show_icons=true&count_private=true&ring_color=65E0BD&include_all_commits=true&hide_border=true&bg_color=0D1116&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD&cache_seconds=43200" alt="GitHub Stats">
-    <img height="160em" src="https://github-readme-stats-jheison-novak.vercel.app/api/top-langs/?username=jheisonnovak&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1116&title_color=65E0BD&cache_seconds=43200" alt="Most Used Languages">
-  </a>
-</div>
-
-</div>
+**[Ragion](https://ragion.com.br)** - B2B multi-tenant SaaS for contextual AI.
+I built the backend and the infrastructure. Source is private; the
+[RLS decision](https://github.com/jheisonnovak/architecture-decisions/blob/main/adr/0001-tenant-isolation-with-row-level-security.md)
+is documented.
 
 <br>
 
@@ -103,12 +39,20 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jheison-novak-017363288/">
+**Daily** · TypeScript · NestJS · PostgreSQL · TypeORM · Redis · Docker
+
+**In production** · Kafka · BullMQ · pgvector · Keycloak · Stripe · Nginx · Linux
+
+**Worked with** · Java/Spring · Oracle · RabbitMQ · React
+
+<br>
+
+<a href="https://www.linkedin.com/in/jheison-novak/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/jheisonnovak">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://www.npmjs.com/~jheison">
+  <img src="https://img.shields.io/badge/npm-jheison-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 </a>
 
 </div>
